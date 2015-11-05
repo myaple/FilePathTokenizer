@@ -1,0 +1,3 @@
+C:\file\path\here\foo.py
+C:\file\path\here\bar.py
+C:\file\path\here\foobar.py
